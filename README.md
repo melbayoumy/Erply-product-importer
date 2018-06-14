@@ -1,5 +1,5 @@
 <body>
-<h1>Erply-product-importer-RabbitMQ</h1>
+<h1>Erply-product-importer</h1>
 
 <p>This app is using <a href="https://erply.com/api" target="_blank">ERPLY API</a> to serve as a product importer.
 

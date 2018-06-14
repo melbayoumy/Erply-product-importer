@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="shortcut icon" href="https://erply.com/wp-content/themes/Erply2.0/favicon-new.ico" />
+	<link rel="shortcut icon" href="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-circle-4.png&r=31&g=83&b=255"/>
 	
 	<!-- Bootstrap CDN -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">	
@@ -24,7 +24,7 @@
 	
 	
 		<!-- Main content -->
-		<p><img src="https://erply.com/wp-content/themes/Erply3.5/img/erply-point-of-sale.jpg"><span class="lead">product importer</span></p>
+		<p><span class="display-4">product</span><span class="h1">importer</span></p>
 		<form @submit.prevent="addProduct" method="POST" class="border rounded p-3 my-3 text-center">
 		
 			<input v-model="product.name" type="text" class="form-group form-control form-control-sm" name="name" placeholder="Name" required>
